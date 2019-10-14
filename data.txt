@@ -1,0 +1,12 @@
+11 //Number of node
+A B // One edge
+A C
+A D
+B F
+C F
+D E
+F G
+E G
+E H
+G I
+H I
